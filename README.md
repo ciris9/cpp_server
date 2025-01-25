@@ -1,2 +1,2 @@
 # cpp_server
-简易的使用cpp实现的服务器
+基于cpp11实现的简易cpp服务器
